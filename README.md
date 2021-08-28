@@ -1,2 +1,7 @@
-# ese
-Energy Storage Ecosystem
+# ESE(Energy Storage Ecosystem)
+
+エネルギー保管エコシステムにようこそ！
+このレポジトリーはイメージなどを格納するところなので下記のURLにお入りください。
+
+[ESE(エネルギー保管エコシステム)の公式Wiki](https://github.com/LowyShin/ese/wiki)
+
